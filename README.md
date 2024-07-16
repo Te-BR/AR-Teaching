@@ -1,2 +1,2 @@
 # ARTeaching
- AR Teaching or ART is a Unity project made for helping children understand emotions
+ This project at the Augmented Reality Unit was done in partnership with DoubleIT as a program to help children on the autism spectrum learn simple emotions while accompanied by an educator.
